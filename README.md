@@ -8,4 +8,5 @@ Instead of using markdown I have decided to use an HTML tag here. As far as I ca
 
 ## UX Journal
 
-[The Linux Audio experience](j01/)
+[The Linux Audio Experience](j01/)
+[The Jetbrains Suite](j02/)
